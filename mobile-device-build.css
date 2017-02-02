@@ -1,6 +1,9 @@
 /*======
 CSS of various devices
 =======*/
+.page-background {
+color: rgb(0, 191, 143);
+}
 
 /*=== The Apple Iphone 7 =====*/
 
@@ -37,10 +40,10 @@ CSS of various devices
   position: absolute;
   left: -5px;
 }
-.vol .vol+ {
+.vol+ {
   top:150px;
 }
-.vol  .vol- {
+.vol- {
   top:225px;
 }
 #hardware .power {
